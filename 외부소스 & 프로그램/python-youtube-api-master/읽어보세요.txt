@@ -1,0 +1,2 @@
+python main.py --c --max 100 --videourl https://www.youtube.com/watch?v=LVOFYfoU1I0(youtube 주소값) --key 본인의 구글 API키값
+이거를 명령프롬프트 또는 파워쉘에서 실행하시면 됩니다
